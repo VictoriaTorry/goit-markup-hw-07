@@ -1,12 +1,11 @@
-@import 'utils/_vars';
+@import 'utils/variables';
 @import 'utils/_basic';
 @import 'utils/visually-hidden';
 
-@import 'utils/btn';
-@import 'utils/logo';
-@import 'utils/section';
-@import 'utils/social';
-
+@import 'components/btn';
+@import 'components/logo';
+@import 'components/section';
+@import 'components/social';
 @import 'components/_header';
 @import 'components/hero';
 @import 'components/features';
